@@ -11,7 +11,7 @@ from numpy import *
 import os
 import torch
 
-os.chdir("~"）
+os.chdir(r"D:\Mobina\Marquette\FAE Codes")
 
 #####################################
 ### Real application: ElNino data set
